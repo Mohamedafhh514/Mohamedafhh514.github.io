@@ -8,7 +8,8 @@ We are currently opening our **Seed Funding Round** to finance the construction 
 
 ![Nitrozine Smart NPK](slogan%201.jpg)
 
-👉 **[Click here to read the full Executive Summary](https://github.io)**
+ 👉 **[Click here to read the full Executive Summary](https://github.io)**
+
 
 ### **Investment Highlights:**
 * **The Product:** A revolutionary non-explosive, polymeric slow-release NPK granular fertilizer.
