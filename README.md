@@ -6,7 +6,8 @@ Welcome to my official innovation portfolio. I am a **Serial Entrepreneur and R&
 ## 💼 INVESTOR RELATIONS: NITROZINE PK PILOT PLANT
 We are currently opening our **Seed Funding Round** to finance the construction of our first industrial automated pilot plant for **NITROZINE PK**. 
 
-![Nitrozine Smart NPK](https://githubusercontent.com)
+![Nitrozine Smart NPK](slogan%201.jpg)
+
 
 ### **Investment Highlights:**
 * **The Product:** A revolutionary non-explosive, polymeric slow-release NPK granular fertilizer.
