@@ -1,31 +1,21 @@
 # Welcome to Mohamed Makni's Innovation Blog 🧪
-
-Welcome to my official innovation portfolio and blog. I am a **Serial Entrepreneur and R&D Specialist** with over 40 years of experience turning complex industrial, agricultural, and energetic challenges into operational, patented technologies.
+Welcome to my official innovation portfolio. I am a **Serial Entrepreneur and R&D Specialist**.
 
 ---
 
-## 🚀 Featured Project: NITROZINE SMART NPK
-My latest breakthrough in eco-friendly chemical engineering and agricultural safety.
+## 💼 INVESTOR RELATIONS: NITROZINE PK PILOT PLANT
+We are currently opening our **Seed Funding Round** to finance the construction of our first industrial automated pilot plant for **NITROZINE PK**. 
 
 ![Nitrozine Smart NPK](slogan%201.jpg)
 
-### **Key Innovations:**
-* ⏳ **9-Week Controlled Release:** Polymeric coating ensures steady, long-term soil nutrition.
-* 🛠️ **Custom Tailored Formulations:** Fully automated production adjustable to any crop requirement.
-* 🛡️ **Advanced Anti-Explosion Safety:** Non-explosive and non-flammable ammonium nitrate compound.
+### **Investment Highlights:**
+* **The Product:** A revolutionary non-explosive, polymeric slow-release NPK granular fertilizer.
+* **The Goal:** Build a fully automated custom pilot facility to scale production and secure global market certifications.
+* **IP Protection:** All patents and proprietary chemical manufacturing frameworks are managed under **Geopac**.
 
----
-
-## 📂 Research & Development Notebook
-This blog serves as an open record of my ongoing scientific journey and commercial innovations. Explore my research across key sectors:
-1. **Sustainable Agriculture:** Next-generation chemical compositions.
-2. **Green Energy Systems:** Closed-loop hydraulics and vapor extraction systems.
-3. **Intellectual Property:** Commercial frameworks and patent management strategies via **Geopac**.
+Interested Venture Capital funds, corporate partners, and institutional investors can request our **Executive Summary, Financial Model, and Pitch Deck** by contacting me directly below.
 
 ---
 
 ## 📬 Contact & Collaboration
-Are you an investor, agricultural expert, or technology partner interested in scaling these innovations? Let's connect.
 * **Email:** maknifr@yahoo.fr
-* **LinkedIn / Professional Networks:** [Accessible via GitHub Profile](https://github.com)
-
